@@ -1,0 +1,112 @@
+{
+  "users": [],
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Pokój unarny",
+      "beds": 1,
+      "guests": 1,
+      "price": 170,
+      "description": "Pokój dla jednej osoby składający się z pokoju głównego połączonego z przedsionkiem oraz łazienki z prysznicem.",
+      "photo": "../assets/ita_spa_main.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pokój binarny",
+      "beds": 1,
+      "guests": 2,
+      "price": 240,
+      "description": "Pokój dla pary składający się z pokoju głównego połączonego z przedsionkiem oraz łazienki z prysznicem."
+    },
+    {
+      "id": 3,
+      "name": "Pokój trójkowy",
+      "beds": 2,
+      "guests": 3,
+      "price": 290,
+      "description": "Pokój dla trzech osób składający się z pokoju głównego połączonego z przedsionkiem oraz łazienki z prysznicem."
+    },
+    {
+      "id": 4,
+      "name": "Pokój czwórkowy",
+      "beds": 2,
+      "guests": 4,
+      "price": 340,
+      "description": "Pokój dla czterech osób składający się z pokoju głównego połączonego z przedsionkiem oraz łazienki z prysznicem."
+    },
+    {
+      "id": 5,
+      "name": "Pokój VIP",
+      "beds": 1,
+      "guests": 2,
+      "price": 1000,
+      "description": "Pokój o podwyższonym standardzie dla jednej lub dwóch osób składający się z pokoju głównego połączonego z przedsionkiem, łazienki z prysznicem oraz tarasu. W pokoju znajduje się łóżko małżeńskie i rozkładana sofa, która może służyć jako dostawka."
+    }
+  ],
+  "treatments": [
+    {
+      "id": 1,
+      "name": "Masaż rozgrzanym monitorem",
+      "area": "back",
+      "time": 30,
+      "price": 80
+    },
+    {
+      "id": 2,
+      "name": "Biczowanie kablem od myszy",
+      "area": "back",
+      "time": 20,
+      "price": 70
+    },
+    {
+      "id": 3,
+      "name": "Peeling odłamkami płyty CD",
+      "area": "face",
+      "time": 15,
+      "price": 50
+    },
+    {
+      "id": 4,
+      "name": "Pedicure woskiem z USB",
+      "area": "legs",
+      "time": 25,
+      "price": 100
+    },
+    {
+      "id": 5,
+      "name": "Manicure analogowo-cyfrowy",
+      "area": "hands",
+      "time": 45,
+      "price": 150
+    },
+    {
+      "id": 6,
+      "name": "Kąpiel w gorącej kawie",
+      "area": "body",
+      "time": 60,
+      "price": 200
+    },
+    {
+      "id": 7,
+      "name": "Depilacja dyskiem twardym",
+      "area": "body",
+      "time": 45,
+      "price": 120
+    },
+    {
+      "id": 8,
+      "name": "Sprint edżajlowy",
+      "area": "body",
+      "time": 90,
+      "price": 500
+    },
+    {
+      "id": 9,
+      "name": "Pakiet daily VIP",
+      "area": "body",
+      "time": 120,
+      "price": 499
+    }
+  ]
+}
+ 
